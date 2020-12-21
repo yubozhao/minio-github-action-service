@@ -1,5 +1,5 @@
 ```
-serivces:
+services:
   minio:
     env:
       MINIO_ACCESS_KEY: access_key
